@@ -1,5 +1,5 @@
-##Demo
-"./src/assets/webPic.png"
+## Demo
+![Project image Demo](./src/assets/webPic.png)
 
 # Getting Started with Create React App
 
